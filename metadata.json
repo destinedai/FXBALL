@@ -1,0 +1,6 @@
+{
+  "name": "FX Bounce",
+  "description": "A 2D bounce forex education game where price is the ball. Master Order Blocks, Break & Retest, and Risk/Reward entries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
